@@ -51,6 +51,7 @@ h4 {
   font-weight: 200;
   color: rgb(242, 235, 218);
   font-family: "Sacramento", Sans-serif;
+  margin-top: 20px;
 }
 
 .title_2 {
@@ -109,7 +110,6 @@ h4 {
   text-align: center;
   font-weight: 200;
   text-align: center;
-  margin-top: 50%;
   font-family: "Lato ", cursive;
   z-index: 2;
 }
@@ -117,7 +117,7 @@ h4 {
 .resepsi {
   width: 100%;
   margin-top: 40px;
-  border-top: 2px dotted rgb(128, 128, 128);
+  border-top: 2px dotted rgb(255,255,255);
   padding: 40px 0;
 }
 
@@ -138,7 +138,7 @@ h4 {
 
 .akhiran {
   width: 100%;
-  border-top: 2px dotted rgb(242, 235, 218);
+  border-top: 2px dotted rgb(255,255,255);
 }
 
 .akhiran p {
@@ -152,8 +152,8 @@ h4 {
 }
 
 .akhiran h1 {
-  font-size: 2rem;
-  color: rgb(128, 128, 128);
+  font-size: 1.8rem;
+  color: rgb(255,255,255);
   font-family: "Dancing Script", cursive;
   margin: 0;
   padding: 0;
@@ -270,7 +270,7 @@ a {
 .komentar {
   width: 100%;
   margin-top: 40px;
-  border-top: 2px dotted rgb(128, 128, 128);
+  border-top: 2px dotted rgb(255,255,255);
   padding: 40px 0;
 }
 
