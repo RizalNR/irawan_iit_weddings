@@ -8,4 +8,4 @@ Project undangan online Irawan & Iit
 - VERCEL
 - GITHUB
 
-# Release : https://rizal-nabillah-wedding.vercel.app
+# Release : https://irawan-iit-weddings.vercel.app/
